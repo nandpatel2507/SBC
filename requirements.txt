@@ -1,4 +1,1 @@
 streamlit
-anthropic
-httpx
-typing-extensions
