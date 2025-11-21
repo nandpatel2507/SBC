@@ -1,17 +1,18 @@
-# 🍽️ Restaurant Discount Finder AI Agent
+# 🍽️ Restaurant Discount Finder - Interactive Prototype
 
-An intelligent Streamlit dashboard powered by Claude AI that helps you discover the best restaurant deals and discounts near you.
+An intelligent Streamlit dashboard that helps you discover the best restaurant deals and discounts. This is a fully functional prototype with synthetic data showcasing AI-powered restaurant search capabilities.
 
 ## Features
 
-- 🔍 **Smart Search**: AI-powered search for restaurant deals and discounts
-- 🌍 **Location-Based**: Find offers specific to your area
-- 🍴 **Cuisine Filters**: Filter by your preferred cuisine types
-- 💰 **Discount Threshold**: Set minimum discount percentage
-- 📱 **Multi-App Search**: Searches across Zomato, Swiggy, Uber Eats, Deliveroo, Talabat, and more
-- 💳 **Credit Card Offers**: Discover bank and credit card dining deals
+- 💬 **Interactive Chat**: Natural conversation with AI assistant
+- 🎯 **Smart Filtering**: Cuisine, location, and discount-based search
+- 🍴 **Rich Database**: 23+ restaurants across 9 cuisine types
+- 💰 **Real Deals**: Realistic discounts (15-45% off) and bank offers
+- 📱 **Multi-App Coverage**: Zomato, Deliveroo, Talabat, Uber Eats, Noon Food
+- 💳 **Bank Offers**: Credit card specific deals (HSBC, Emirates NBD, etc.)
 - 🚀 **Quick Actions**: One-click searches for popular categories
-- 📊 **Search History**: Track your previous searches
+- 📊 **Live Stats**: Real-time metrics and insights
+- 🔍 **Browse Mode**: Filter and sort all restaurants
 
 ## Setup Instructions
 
