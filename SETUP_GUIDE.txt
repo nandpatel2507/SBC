@@ -1,9 +1,12 @@
-RESTAURANT DISCOUNT FINDER - DEPLOYMENT GUIDE
-=============================================
+RESTAURANT DISCOUNT FINDER - DEPLOYMENT GUIDE (PROTOTYPE VERSION)
+==================================================================
+
+This is a FULLY FUNCTIONAL PROTOTYPE that doesn't require any API keys!
+It uses synthetic restaurant data to demonstrate the concept.
 
 FILES TO UPLOAD TO GITHUB:
 1. app.py (main application file)
-2. requirements.txt (dependencies)
+2. requirements.txt (only needs streamlit!)
 3. README.md (documentation)
 4. .gitignore (ignore unnecessary files)
 5. config.toml (Streamlit configuration)
